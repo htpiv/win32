@@ -52389,6 +52389,206 @@
       "source_path": "desktop-src/wmp/writing-the-code.md",
       "redirect_url": "/previous-versions/windows/desktop/wmp/writing-the-code",
       "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/index.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestrator-registerprovider.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestrator-unregisterprovider.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestrator.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-actionkind.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-isexclusive.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-ispausable.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-name.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-requiresnetwork.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback-reportcompleted.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback-reportfailed.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback-reportprogress.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorunlock-unlock.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorunlock.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-action.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-deadline.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-description.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-issecurity.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-title.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-uniqueid.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-pause.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-performaction.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-serialize.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdatecollection-get-count.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdatecollection-get-item.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdatecollection.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-cancelscan.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-deserialize.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-scanattemptfrequencyinminutes.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-scanforpendingupdates.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-scanslainminutes.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-hasmoratoriumpassed.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-iuniversalorchestrator.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-schedulework.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-workcompleted.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/updateorchestratoractionkind.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
   }
 
   ]

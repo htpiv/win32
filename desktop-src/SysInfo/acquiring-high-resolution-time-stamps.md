@@ -460,7 +460,8 @@ A convenient reference is that a frequency error of 100 ppm causes an error of 8
 | 1 microsecond          | ± 10 picoseconds (10-12)                                                             |
 | 1 millisecond          | ± 10 nanoseconds (10-9)                                                              |
 | 1 second               | ± 10 microseconds                                                                    |
-| 1 hour                 | ± 60 microseconds                                                                    |
+| 1 minute                 | ± 60 microseconds                                                                    |
+| 1 hour                 | ± 36 milliseconds                                                                   |
 | 1 day                  | ± 0.86 seconds                                                                       |
 | 1 week                 | ± 6.08 seconds                                                                       |
 

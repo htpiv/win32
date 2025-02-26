@@ -214,8 +214,6 @@
           href: app-isolation-supported-capabilities.md
         - name: "Consent for Isolated Win32 apps"
           href: app-isolation-app-consent.md
-        - name: "Package isolated Win32 apps with MSIX"
-          href: app-isolation-msix-packaging.md
         - name: "Package isolated Win32 apps with Visual Studio"
           href: app-isolation-packaging-with-vs.md
         - name: "Application capability profiler (ACP)"

@@ -52389,7 +52389,1326 @@
       "source_path": "desktop-src/wmp/writing-the-code.md",
       "redirect_url": "/previous-versions/windows/desktop/wmp/writing-the-code",
       "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/index.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestrator-registerprovider.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestrator-unregisterprovider.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestrator.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-actionkind.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-isexclusive.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-ispausable.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-name.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction-get-requiresnetwork.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoraction.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback-reportcompleted.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback-reportfailed.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback-reportprogress.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratoractioncallback.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorunlock-unlock.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorunlock.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-action.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-deadline.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-description.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-issecurity.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-title.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-get-uniqueid.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-pause.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-performaction.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate-serialize.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdate.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdatecollection-get-count.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdatecollection-get-item.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdatecollection.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-cancelscan.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-deserialize.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-scanattemptfrequencyinminutes.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-scanforpendingupdates.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider-scanslainminutes.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/iupdateorchestratorupdateprovider.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-hasmoratoriumpassed.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-iuniversalorchestrator.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-schedulework.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/universalorchestrator-workcompleted.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/updateorchestrator/updateorchestratoractionkind.md",
+      "redirect_url": "/windows-hardware/drivers/devapps/register-an-oem-application-during-the-imaging-process" ,
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia--iwiaevents-ondeviceconnected.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia--iwiaevents-ondeviceconnected",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia--iwiaevents-ondevicedisconnected.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia--iwiaevents-ondevicedisconnected",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia--iwiaevents-ontransfercomplete.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia--iwiaevents-ontransfercomplete",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-about-item-tree.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-about-item-tree",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-about-windows-image-acquisition.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-about-windows-image-acquisition",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-acquiring-images.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-acquiring-images",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-additional-wia-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-additional-wia-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-capturing-a-still-image-from-a-video-stream.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-capturing-a-still-image-from-a-video-stream",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-capturing-a-still-image-from-streaming-video.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-capturing-a-still-image-from-streaming-video",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-collection.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-collection",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-communicating-with-a-wia-device.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-communicating-with-a-wia-device",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-connecting-to-a-device.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-connecting-to-a-device",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-constants.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-constants",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-creating-a-device.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-creating-a-device",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-creating-a-wia-device-manager.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-creating-a-wia-device-manager",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-defining-custom-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-defining-custom-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-device-information-properties-wia-dip-xxxx.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-device-information-properties-wia-dip-xxxx",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-device-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-device-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-devicedialog.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-devicedialog",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-devicedialogdata.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-devicedialogdata",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-devicedialogdata2.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-devicedialogdata2",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-deviceinfo.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-deviceinfo",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-enumerating-items.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-enumerating-items",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-enumerating-system-devices.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-enumerating-system-devices",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-enumerations.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-enumerations",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-error-codes.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-error-codes",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-functions.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-functions",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-icollection-count.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-icollection-count",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-icollection-item.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-icollection-item",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-ienumwiaitem2-clone.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-ienumwiaitem2-clone",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-ienumwiaitem2-getcount.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-ienumwiaitem2-getcount",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-ienumwiaitem2-next.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-ienumwiaitem2-next",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-ienumwiaitem2-reset.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-ienumwiaitem2-reset",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-ienumwiaitem2-skip.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-ienumwiaitem2-skip",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-ienumwiaitem2.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-ienumwiaitem2",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-imageintentconstants.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-imageintentconstants",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-installwiadevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-installwiadevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-interfaces.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-interfaces",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getallpropids.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getallpropids",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getdeviceid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getdeviceid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getguid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getguid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getname.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getname",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getnumpropids.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getnumpropids",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-getproperty.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-getproperty",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-isdefault.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-isdefault",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-removeproperty.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-removeproperty",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-save.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-save",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-setitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-setitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-setname.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-setname",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile-setproperty.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile-setproperty",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofile.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofile",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-createprofile.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-createprofile",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-deleteallprofiles.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-deleteallprofiles",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-deleteallprofilesforuser.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-deleteallprofilesforuser",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-deleteprofile.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-deleteprofile",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-getdefaultprofile.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-getdefaultprofile",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-getnumprofiles.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-getnumprofiles",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-getnumprofilesfordeviceid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-getnumprofilesfordeviceid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-getprofiles.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-getprofiles",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-getprofilesfordeviceid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-getprofilesfordeviceid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-openprofile.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-openprofile",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-refresh.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-refresh",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr-setdefault.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr-setdefault",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofilemgr.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofilemgr",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofileui-scanprofiledialog.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofileui-scanprofiledialog",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iscanprofileui.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iscanprofileui",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-item-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-item-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-item.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-item",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwia-create.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwia-create",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwia-devices.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwia-devices",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaapperrorhandler-getwindow.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaapperrorhandler-getwindow",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaapperrorhandler-reportstatus.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaapperrorhandler-reportstatus",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaapperrorhandler.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaapperrorhandler",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-create.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-create",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-getpropbyid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-getpropbyid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-id.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-id",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-manufacturer.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-manufacturer",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-name.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-name",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-port.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-port",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-type.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-type",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadeviceinfo-uiclsid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadeviceinfo-uiclsid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-createdevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-createdevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-enumdeviceinfo.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-enumdeviceinfo",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-getimagedlg.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-getimagedlg",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-registereventcallbackclsid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-registereventcallbackclsid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-registereventcallbackinterface.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-registereventcallbackinterface",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-registereventcallbackprogram.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-registereventcallbackprogram",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-selectdevicedlg.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-selectdevicedlg",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2-selectdevicedlgid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2-selectdevicedlgid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadevmgr2.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadevmgr2",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-children.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-children",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-connectstatus.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-connectstatus",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-firmwareversion.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-firmwareversion",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-fullname.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-fullname",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-getitemsfromui.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-getitemsfromui",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-getpropbyid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-getpropbyid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-height.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-height",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-itemtype.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-itemtype",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-name.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-name",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-pictureheight.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-pictureheight",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-picturewidth.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-picturewidth",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-takepicture.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-takepicture",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-thumbheight.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-thumbheight",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-thumbnail.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-thumbnail",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-thumbwidth.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-thumbwidth",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-time.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-time",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-transfer.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-transfer",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiadispatchitem-width.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiadispatchitem-width",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaerrorhandler-getstatusdescription.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaerrorhandler-getstatusdescription",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaerrorhandler-reportstatus.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaerrorhandler-reportstatus",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaerrorhandler.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaerrorhandler",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaimagefilter-applyproperties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaimagefilter-applyproperties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaimagefilter-filterpreviewimage.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaimagefilter-filterpreviewimage",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaimagefilter-initializefilter.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaimagefilter-initializefilter",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaimagefilter-setnewcallback.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaimagefilter-setnewcallback",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaimagefilter.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaimagefilter",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-checkextension.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-checkextension",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-createchilditem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-createchilditem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-deleteitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-deleteitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-devicecommand.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-devicecommand",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-devicedlg.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-devicedlg",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-diagnostic.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-diagnostic",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-enumchilditems.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-enumchilditems",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-enumdevicecapabilities.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-enumdevicecapabilities",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-enumregistereventinfo.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-enumregistereventinfo",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-finditembyname.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-finditembyname",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-getextension.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-getextension",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-getitemcategory.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-getitemcategory",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-getitemtype.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-getitemtype",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-getparentitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-getparentitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-getpreviewcomponent.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-getpreviewcomponent",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2-getrootitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2-getrootitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiaitem2.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiaitem2",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiapreview-clear.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiapreview-clear",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiapreview-detectregions.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiapreview-detectregions",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiapreview-getnewpreview.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiapreview-getnewpreview",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiapreview-updatepreview.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiapreview-updatepreview",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiapreview.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiapreview",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiasegmentationfilter-detectregions.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiasegmentationfilter-detectregions",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiasegmentationfilter.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiasegmentationfilter",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfer-cancel.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfer-cancel",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfer-download.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfer-download",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfer-enumwia-format-info.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfer-enumwia-format-info",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfer-upload.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfer-upload",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfer.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfer",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfercallback-getnextstream.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfercallback-getnextstream",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfercallback-transfercallback.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfercallback-transfercallback",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiatransfercallback.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiatransfercallback",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension-devicedialog.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension-devicedialog",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension-getdevicebitmaplogo.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension-getdevicebitmaplogo",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension-getdeviceicon.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension-getdeviceicon",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension2-devicedialog.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension2-devicedialog",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension2-getdeviceicon.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension2-getdeviceicon",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-iwiauiextension2.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-iwiauiextension2",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-legal-information.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-legal-information",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-limitations-of-the-scripting-model.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-limitations-of-the-scripting-model",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-navigating-a-tree-of-item-objects.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-navigating-a-tree-of-item-objects",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-navigating-an-item-tree.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-navigating-an-item-tree",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-previewing-video.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-previewing-video",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-property-attributes.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-property-attributes",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-reading-and-setting-wia-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-reading-and-setting-wia-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-reading-device-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-reading-device-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-reference.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-reference",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-registering-for-events.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-registering-for-events",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-registering-wia-events.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-registering-wia-events",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-safewia.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-safewia",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-scan-profile-schema.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-scan-profile-schema",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-security-considerations.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-security-considerations",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-selecting-a-device.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-selecting-a-device",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-setting-up-the-scripting-model.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-setting-up-the-scripting-model",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-startpage.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-startpage",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-sti-compatibility.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-sti-compatibility",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-structures.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-structures",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-syntax-conventions.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-syntax-conventions",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-transferring-data.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-transferring-data",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-transferring-image-data-in-wia2.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-transferring-image-data-in-wia2",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-transferring-image-data.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-transferring-image-data",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-twain-compatibility.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-twain-compatibility",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-custom-properties.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-custom-properties",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-multiple-threads.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-multiple-threads",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-the-wia-scripting-model.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-the-wia-scripting-model",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-wia-collection-objects.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-wia-collection-objects",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-wia-device-objects.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-wia-device-objects",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-wia-enumerators.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-wia-enumerators",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-wia-video.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-wia-video",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-using-windows-image-acquisition.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-using-windows-image-acquisition",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-whatsnew-longhorn.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-whatsnew-longhorn",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-application-programming-interface.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-application-programming-interface",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-architecture.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-architecture",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-camera-devices.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-camera-devices",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-device-commands.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-device-commands",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-device-manager.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-device-manager",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-device-type-specifiers.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-device-type-specifiers",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-error-information.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-error-information",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-event-identifiers.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-event-identifiers",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-item-type-flags.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-item-type-flags",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-minidriver-service-library.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-minidriver-service-library",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-minidriver.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-minidriver",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-property-constant-definitions.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-property-constant-definitions",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-property-constants.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-property-constants",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-property-validation.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-property-validation",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-raw-header.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-raw-header",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-scanner-devices.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-scanner-devices",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-scripting-model.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-scripting-model",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia-tutorial.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia-tutorial",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia2-itemcategoryguids.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia2-itemcategoryguids",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wia2-pagesizeconstants.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wia2-pagesizeconstants",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaadddevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaadddevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiadeviceinfoprop.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiadeviceinfoprop",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiadeviceinfopropertyid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiadeviceinfopropertyid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaflag.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaflag",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropcameradevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropcameradevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropcameraitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropcameraitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropcommondevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropcommondevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropcommonitem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropcommonitem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropertyid.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropertyid",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropscannerdevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropscannerdevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropscanneritem.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropscanneritem",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiaitempropvideodevice.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiaitempropvideodevice",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/-wia-wiatransferparams.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/-wia-wiatransferparams",
+      "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/wia/bumper-wia-overviews-and-tutorials.md",
+      "redirect_url": "/previous-versions/windows/desktop/wia/bumper-wia-overviews-and-tutorials",
+      "redirect_document_id": false
   }
-
   ]
 }

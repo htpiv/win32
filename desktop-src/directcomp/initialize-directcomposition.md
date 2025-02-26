@@ -544,7 +544,7 @@ HRESULT DemoApp::Initialize()
     wcex.cbClsExtra    = 0;
     wcex.cbWndExtra    = sizeof(LONG_PTR);
     wcex.hInstance     = HINST_THISCOMPONENT;
-    wcex.hbrBackground = (HBRUSH)(COLOR_WINDOW+1);;
+    wcex.hbrBackground = (HBRUSH)(COLOR_WINDOW+1);
     wcex.lpszMenuName  = nullptr;
     wcex.hCursor       = LoadCursor(NULL, IDC_ARROW);
     wcex.lpszClassName = L&quot;DirectCompDemoApp&quot;;
@@ -981,7 +981,3 @@ HRESULT DemoApp::MyCreateGDIRenderedDCompSurface(HBITMAP hBitmap,
 
 [**SafeRelease**](/windows/desktop/medfound/saferelease)
 </dt> </dl>
-
- 
-
- 

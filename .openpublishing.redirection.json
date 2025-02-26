@@ -53709,6 +53709,11 @@
       "source_path": "desktop-src/wia/bumper-wia-overviews-and-tutorials.md",
       "redirect_url": "/previous-versions/windows/desktop/wia/bumper-wia-overviews-and-tutorials",
       "redirect_document_id": false
+  },
+  {
+      "source_path": "desktop-src/SecAuthZ/app-isolation-msix-packaging.md",
+      "redirect_url": "/windows/win32/secauthz/app-isolation-packaging-with-vs",
+      "redirect_document_id": false
   }
   ]
 }

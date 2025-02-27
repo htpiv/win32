@@ -81,7 +81,7 @@ INT_PTR CALLBACK DlgDelFileProc(HWND hDlg, UINT message,
                     iRet = MessageBox(hDlg, achTemp, L"Deleting Files", 
                         MB_YESNO | MB_ICONEXCLAMATION);
                     if (iRet == IDNO)
-                        return TRUE;;
+                        return TRUE;
 
                     // Delete the file.
                     fResult = DeleteFile(pszFileToDelete); 
@@ -146,7 +146,3 @@ INT_PTR CALLBACK DlgDelFileProc(HWND hDlg, UINT message,
 
 [Using List Boxes](using-list-boxes.md)
 </dt> </dl>
-
- 
-
- 

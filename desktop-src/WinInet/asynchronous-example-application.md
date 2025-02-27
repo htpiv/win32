@@ -841,7 +841,7 @@ Return Value:
         Error = GetLastError();
 
         LogSysError(Error, L"WriteFile");
-        goto Exit;;
+        goto Exit;
     }
 
     
@@ -1821,13 +1821,3 @@ Return Value:
     return;
 }
 ```
-
-
-
- 
-
- 
-
-
-
-

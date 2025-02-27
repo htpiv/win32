@@ -1533,7 +1533,7 @@ HRESULT CRequest::AcceptChannel(HRESULT hr, WS_ASYNC_OPERATION* next, WS_CALLBAC
     next->function = CRequest::ReceiveFirstMessageCallback;  
     
     PrintVerbose(L"Leaving CRequest::AcceptChannel");
-    return WsAcceptChannel(server->GetListener(), channel, asyncContext, error);;
+    return WsAcceptChannel(server->GetListener(), channel, asyncContext, error);
 }
 
 // Special case for the first message received to keep the bookkeeping of active channels in order. 
@@ -3643,11 +3643,3 @@ WsFileRepService.exe: Service.obj CFileRep.obj CFileRepServer.obj CFileRepClient
 
 [FileRepToolExample](filereptoolexample.md)
 </dt> </dl>
-
- 
-
- 
-
-
-
-

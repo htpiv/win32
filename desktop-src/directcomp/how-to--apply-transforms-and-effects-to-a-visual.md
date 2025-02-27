@@ -419,7 +419,7 @@ HRESULT DemoApp::Initialize()
     wcex.hbrBackground = (HBRUSH)(COLOR_WINDOW+1);
     wcex.lpszMenuName  = NULL;
     wcex.hCursor       = LoadCursor(NULL, IDC_ARROW);
-    wcex.lpszClassName = L&quot;DirectCompDemoApp&quot;;
+    wcex.lpszClassName = L"DirectCompDemoApp";
 
     RegisterClassEx(&wcex);
 
